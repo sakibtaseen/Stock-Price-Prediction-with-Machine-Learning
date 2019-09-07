@@ -9,7 +9,7 @@ Aim of this project is to make siplified machine learning models that can predic
 
 ### Necessary Libraries:
 - numpy
-- pandas
+- pandas [Version bellow 24.2]
 - pandas_datareader
 - matplotlib
 - plotly
